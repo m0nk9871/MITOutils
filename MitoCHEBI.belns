@@ -15,8 +15,7 @@ CaseSensitiveFlag=yes
 DelimiterString=|
 CacheableFlag=yes
 [Values]
-(?)|A
-<b>2n</b> H(+)|A
+
 amyloid-β|A
 amyloid-β polypeptide 42|A
 cardiolipin|A
@@ -24,7 +23,7 @@ calcium(2+)|A
 ATP|A
 EC 3.1.4.12 (sphingomyelin phosphodiesterase) inhibitor|A
 ceramide|A
-NAD+|A
+NAD|A
 dioxygen|A
 glutathione|A
 sphingomyelin d18:1|A
