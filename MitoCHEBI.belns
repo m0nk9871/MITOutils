@@ -1,0 +1,26 @@
+[Namespace]
+Keyword=mitochebi
+NameString=MitoChEBI
+DomainString=Other
+VersionString=20190826
+CreatedDateTime=2019-08-26T19:38:26
+QueryValueURL=http://identifiers.org/chebi/
+[Author]
+NameString=cthoyt
+CopyrightString=Other/Proprietary
+[Citation]
+NameString=None
+[Processing]
+CaseSensitiveFlag=yes
+DelimiterString=|
+CacheableFlag=yes
+[Values]
+(?)|A
+<b>2n</b> H(+)|A
+amyloid-β|A
+amyloid-β polypeptide 42|A
+cardiolipin|A
+calcium(2+)|A
+ATP|A
+EC 3.1.4.12 (sphingomyelin phosphodiesterase) inhibitor|A
+ceramide|A
