@@ -1,0 +1,29 @@
+[AnnotationDefinition]
+Keyword=Subgraph
+TypeString=list
+VersionString=1.0.3
+CreatedDateTime=2019-08-26T15:39:23
+
+[Author]
+NameString=Kristian Kolpeja
+CopyrightString=This work is licensed under a Creative Commons Attribution 3.0 Unported License
+ContactInfoString=kkolpeja
+
+[Citation]
+NameString=NeuroMMSigDB
+
+[Processing]
+CaseSensitiveFlag=yes
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+Tau|
+Alzheimer Brain|
+Sirtuins|
+Amyloid Beta|
+Matrix|
+Prohibitins|
+Mitophagy|
+MAMs|
+Tau Phosphorylation|
