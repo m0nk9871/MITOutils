@@ -12,7 +12,7 @@ ContactInfoString=kkolpeja
 
 [Citation]
 NameString=MitoBEL
-DescriptionString=This namespace was serialized by PyBEL v0.11.9-dev from NESTOR Home Page v0.0.1
+DescriptionString=This namespace was created as part of MITOBEL Project
 
 [Processing]
 CaseSensitiveFlag=yes
