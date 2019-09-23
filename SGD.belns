@@ -1,0 +1,23 @@
+[Namespace]
+Keyword=MITOPROCESS
+NameString=MITOPROCESS
+DomainString=Other
+VersionString=20190924
+CreatedDateTime=2019-09-24T20:57:59
+
+[Author]
+NameString=Kristian Kolpeja
+CopyrightString=Other/Proprietary
+ContactInfoString=kkolpeja
+
+[Citation]
+NameString=MitoBEL
+DescriptionString=This namespace was serialized by PyBEL v0.11.9-dev from NESTOR Home Page v0.0.1
+
+[Processing]
+CaseSensitiveFlag=yes
+DelimiterString=|
+CacheableFlag=no
+
+[Values]
+MDM34|ABCGMOPR
